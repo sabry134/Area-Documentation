@@ -31,6 +31,9 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
+# Add custom HTML footer to remove copyright notice and "Built with Sphinx" footer
+html_footer = ''
+
 # Add custom HTML context to remove "Edit on GitHub" link
 html_context = {
     'display_github': False,
