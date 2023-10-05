@@ -31,10 +31,16 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
+# Add custom HTML context to remove "Edit on GitHub" link
+html_context = {
+    'display_github': False,
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
 html_show_sourcelink = False
 
 html_theme_options = {
-    'display_version': False}
+    'display_version': False,
+}
