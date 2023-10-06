@@ -1,22 +1,38 @@
 Welcome to Area's Documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Area is a powerful automation platform similar to Zapier or IFTTT that allows you to connect various online services and automate tasks effortlessly.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. image:: area-logo.png
+   :alt: Area Logo
+
+Getting Started
+---------------
+
+To get started with Area, please follow the steps below:
+
+1. **Installation**: First, ensure you have cloned the repository.
+
+2. **Usage**: Once you have the github reposiory cloned, start the website made in react.js with this command
+```
+npm start
+```
+
+3. **API Reference**: If you're a developer looking to integrate with Area, explore our comprehensive :doc:`api` documentation for details on our API.
+
+.. warning::
+
+   Area is a versatile tool, so make sure to read the documentation thoroughly to harness its full potential.
 
 .. note::
 
-   This project is under active development.
+   This documentation is continually updated as we improve and expand the capabilities of Area.
 
 Contents
 --------
 
 .. toctree::
 
+   installation
    usage
    api
