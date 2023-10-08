@@ -37,3 +37,11 @@ npm start
       - Benjamin Besnainou
       - Van-do Pham
 
+Contents
+--------
+
+.. toctree::
+
+   usage
+   api
+
