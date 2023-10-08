@@ -29,7 +29,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_material'
+html_theme = 'sphinx_rtd_theme'
 
 # Add custom HTML footer to remove copyright notice and "Built with Sphinx" footer
 html_footer = ''
