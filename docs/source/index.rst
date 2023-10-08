@@ -26,12 +26,14 @@ npm start
 
 .. note::
 
-   This documentation is continually updated as we improve and expand the capabilities of Area.
+   This documentation is continually updated as we improve and expand the capabilities of the project.
 
-Contents
---------
+4. **Authors**
 
-.. toctree::
+   The "Area" project was made by:
+      - Aurélien Duval
+      - Ulysse Villanueva
+      - Zacharie Lacombe
+      - Benjamin Besnainou
+      - Van-do Pham
 
-   installation
-   api
