@@ -1,4 +1,4 @@
-Table of contents
+Front Introduction
 =================
 
 .. warning::
