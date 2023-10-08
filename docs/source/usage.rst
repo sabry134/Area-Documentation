@@ -1,5 +1,5 @@
 =====================
-Area Epitech Project
+Setting up Area
 =====================
 
 This documentation provides instructions for setting up and running the "Area" project. The project utilizes a web application built with React, so we'll also include instructions for installing the required dependencies and starting the development server.
