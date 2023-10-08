@@ -37,7 +37,7 @@ npm start
       - Benjamin Besnainou
       - Van-do Pham
 
-Contents
+Table of Contents
 --------
 
 .. toctree::
