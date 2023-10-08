@@ -17,7 +17,7 @@ Clone the Repository
 First, you need to clone the "Area" project repository from the Epitech GitHub repository. Open your terminal and run the following command::
 
 
->>> $ git clone git@github.com:EpitechPromo2026/B-DEV-500-PAR-5-1-area-aurelien.duval.git
+>>> git clone git@github.com:EpitechPromo2026/B-DEV-500-PAR-5-1-area-aurelien.duval.git
 
 This command will create a local copy of the project on your machine.
 
@@ -26,7 +26,7 @@ Navigate to the Docs Directory
 
 Change your working directory to the "docs" folder within the cloned project directory using the ``cd`` command::
 
->>> $ cd web
+>>> cd web
 
 
 Install Dependencies
@@ -34,7 +34,7 @@ Install Dependencies
 
 To install the required dependencies for the React web application, use the following command::
 
->>> $ npm install
+>>> npm install
 
 This command will fetch and install all the necessary Node.js packages specified in the ``package.json`` file.
 
@@ -43,7 +43,7 @@ Start the Development Server
 
 Once the dependencies are installed, you can start the development server by running the following command::
 
->>> $ npm start
+>>> npm start
 
 
 This command will start the development server and open the "Area" web application in your default web browser. You can access the application at http://localhost:3000.
