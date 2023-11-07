@@ -13,10 +13,10 @@ To deploy the "Area" project, follow these steps:
 
    .. code-block:: bash
 
-      git clone https://github.com/yourusername/area-project.git
+      git clone git@github.com:EpitechPromo2026/B-DEV-500-PAR-5-1-area-aurelien.duval.git
 
 
-3. **Configure Environment Variables**:
+2. **Configure Environment Variables**:
 
    Create a `.env` file in the project's root directory and configure the necessary environment variables. Here's an example:
 
@@ -33,7 +33,7 @@ To deploy the "Area" project, follow these steps:
       POSTGRES_DB="areaapi_dev"
 
 
-5. **Run the Server**:
+3. **Run the Server**:
 
    .. code-block:: bash
 
