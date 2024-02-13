@@ -1,5 +1,5 @@
 ==============
-Area Project
+Comparative study
 ==============
 
 Welcome to the documentation for the "Area" project! Area is a versatile automation platform that allows you to create actions, reactions, and triggers to automate various tasks similar to Zapier. This guide will walk you through the deployment of the "Area" project and explain how to create and trigger workflows.
